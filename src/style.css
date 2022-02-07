@@ -1,0 +1,47 @@
+#root{
+    color: white;
+    background-color: rgb(107, 55, 160);
+}
+
+.signup--component,.login{
+    background-color: white;
+    box-shadow: 5px 5px 15px -1px rgba(0,0,0,0.75);
+    padding: 20px;
+    border-radius: 10px;
+    color: black;
+}
+
+.signup-heading{
+    margin-bottom: 50px;
+    align-self: center;
+}
+
+button{
+    border-radius: 5px;
+    height: 50px;
+    background-color: rgb(107, 55, 160);
+    color: white; 
+    border: 2px solid purple;
+}
+
+button:hover{
+    transform: scale(1.01);
+    background-color: rgb(170, 111, 230);
+    color: black;
+    font-weight: 600;
+    transition: 0.2s ease-in-out;
+}
+
+.dashboard nav button {
+    width : 80px;
+}
+
+.dashboard-bottom{
+    flex-direction: column;
+}
+
+.dashboard-logout-button{
+    border-radius: 10px;
+}
+
+ 

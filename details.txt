@@ -1,0 +1,5 @@
+1. we are creating the context folder to make 
+sure that we are able to access our current user from 
+anywhere in the application
+
+2.
