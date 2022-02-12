@@ -1,4 +1,4 @@
-A simple Authentication system designed using ReactJS and Firebase.
+A simple Authentication system with signup and log in features designed using ReactJS and Firebase.
 
 
 
